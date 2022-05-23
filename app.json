@@ -1,12 +1,12 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "xkwkl01",
+    "description": "test01",
     "keywords": [
-        "V2Ray"
+        "test01"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
+            "description": "UUID",
             "value": "4e5c5670-dbb9-4220-a493-84b949b846be"
         },
         "TUNNEL_TOKEN": {
